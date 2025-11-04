@@ -1,3 +1,7 @@
+import os
+import platform
+import getpass
+
 print("========================================")
 print("Selamat Datang {getpass.getuser()}")
 print("========================================")
